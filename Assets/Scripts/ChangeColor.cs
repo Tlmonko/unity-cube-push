@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class ColorfulWall : MonoBehaviour
+public class ChangeColor : MonoBehaviour
 {
     void OnTriggerEnter(Collider collider)
     {

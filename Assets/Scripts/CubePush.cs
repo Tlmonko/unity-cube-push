@@ -1,7 +1,7 @@
 ﻿using Packages.Rider.Editor.Util;
 using UnityEngine;
 
-public class Main : MonoBehaviour
+public class CubePush : MonoBehaviour
 {
     public Rigidbody СubeRB;
     public Vector3 vector;
